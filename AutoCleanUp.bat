@@ -19,11 +19,11 @@ wevtutil cl Application
 wevtutil cl Security
 
 echo [Maintenance]: Ready. Your PC will thank you :).
-timeout /t 3
 exit
 
 :: ========================================================
 :: AUTHOR: frex777
 :: ========================================================
+
 
 
